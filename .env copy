@@ -1,0 +1,17 @@
+APP_PORT=8080
+APP_ENV=development
+
+# mongodb
+MONGO_URL=mongodb://localhost:27018
+MONGO_DB=shop
+
+MONGO_URL_USER=mongodb://localhost:27018
+MONGO_DB_USER=shop_user
+
+# JWT
+SECRET_KEY=123456
+
+# Redis
+# REDIS_HOST=127.0.0.1
+# REDIS_PORT=6379
+REDIS_URL=redis://localhost:6379

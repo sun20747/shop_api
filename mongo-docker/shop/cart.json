@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63363e7bcda4be5721f51a74"
+  },
+  "user_id": {
+    "$oid": "6333c15e92e27728acaf191e"
+  },
+  "products_in_cart": []
+},{
+  "_id": {
+    "$oid": "63364e79fc85c5a5eb0c3b62"
+  },
+  "user_id": {
+    "$oid": "6334a6e66afbdd781ff0c897"
+  },
+  "products_in_cart": []
+}]
